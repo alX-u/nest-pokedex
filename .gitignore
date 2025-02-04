@@ -6,6 +6,9 @@
 # Mongo
 /mongo
 
+# Environment
+.env
+
 # Logs
 logs
 *.log
